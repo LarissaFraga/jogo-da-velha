@@ -1,5 +1,5 @@
 # JogoDaVelha
-
+Este projeto foi desenvolvido durante o bootcamp do IGTI de frontend, nele foi implementado um jogo da velha.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
 ## Development server
